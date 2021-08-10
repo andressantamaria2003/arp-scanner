@@ -1,4 +1,5 @@
 # arp-scanner
+Escaneo de dispositivo en la red mediante ARP. Devolvera las ips y las MAC de los dispositivos que se encuentren
 
 # Requisitos
 Debes instalar el modulo scapy de Python, para ello ejecuta el siguiente comando
